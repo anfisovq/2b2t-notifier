@@ -1,6 +1,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/anfisovq/2b2t-notifier/refs/heads/main/logo.jpg" alt="2b2t-notifier-logo" width="15%"/>
 
+
 <img src="https://raw.githubusercontent.com/anfisovq/2b2t-notifier/refs/heads/main/screen.jpg" alt="2b2t-notifier-screen" width="95%"/>
 </p>
 
