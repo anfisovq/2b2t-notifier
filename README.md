@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">2b2t-notifier</h1>
-<p align="center">A simple script for sending notifications about the position in the queue on the Minecraft server 2b2t via Discord webhook. Queue data is taken from the latest.log file in your Minecraft folder.</p>
+<p align="center">A simple script for sending notifications about the position in the queue on the Minecraft server 2b2t.org via Discord webhook. Queue data is taken from the latest.log file in your Minecraft folder.</p>
 
 ##
 
