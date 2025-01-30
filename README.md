@@ -10,5 +10,7 @@
 - Download the latest [release](/../../releases) of 2b2t-notifier.
 - Put it to any directory convenient for you and unzip archive.
 - Get path for logs of your minecraft, namely the file "latest.log" from the "logs" folder in the in-game files.
-- Get Discord Webhook 
+- Get [Discord webhook](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks) url.
+- Put path for file path and discord webhook url in config.
+- Start .exe file or .py (Depends on whether you are launching through source code or through [release](/../../releases)
 
