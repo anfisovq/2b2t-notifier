@@ -18,6 +18,10 @@
 - Put path for file path and discord webhook url in config.
 - Start .exe file or .py (Depends on whether you are launching through source code or through [release](/../../releases))
 
+# Functional
+- Mention @everyone when sending a log about the position in the queue (ping in the no/yes config is responsible for this function)
+- Queue tracking
+
 ## Licensing
 This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html). 
 
